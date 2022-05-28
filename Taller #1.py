@@ -1,9 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 28 13:32:48 2022
+# Solucion al Taller 3
+# Diplomado Python Aplicado a la Ingenieria UPB
+# Autor: Deimer David Morelo Ospino
+# ID: 502217
+# Email: deimer.morelo@upb.edu.co
 
-@author: Deimer Morelo Ospino
-"""
 a=int(input("Por favor ingrese el valor correspondiente a la variable 'a': " ))
 b=int(input("Por favor ingrese el valor correspondiente a la variable 'b': " ))
 c=int(input("Por favor ingrese el valor correspondiente a la variable 'c': " ))
