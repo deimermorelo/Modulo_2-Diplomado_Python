@@ -40,7 +40,7 @@ categorias = my_data.loc[my_data['listed_in'].isin(['Documentaries','Internation
 
 #Punto 10
 my_data.iloc[:5,0]='s1'
-tv_show.loc[2671:,'listed_in']='Comedies, Horror Movies'
+tv_show.loc[3450:,'listed_in']='Comedies, Horror Movies'
 
 #Punto 11
 my_data["Visto"] = np.random.randint(0, 2, my_data.shape[0])
